@@ -24,13 +24,13 @@ The **Global Tipping App** is a lightweight, open-source web app that allows use
 ---
 
 ## 📄 License
-This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for detail:
-\r\n [LICENSE](https://github.com/neiltucker/mintlayer-tipping-app/blob/main/LICENSE)
+This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for detail: &lt;br&gt;
+[LICENSE](https://github.com/neiltucker/mintlayer-tipping-app/blob/main/LICENSE)
 
 ## 👥 Contributing
 We welcome pull requests, bug reports, and feature suggestions!  
-Please review our [CONTRIBUTING.md] and open issues or PRs. Validators and devs are encouraged to test integration flows:
-\r\n [CONTRIBUTING](https://github.com/neiltucker/mintlayer-tipping-app/blob/main/CONTRIBUTING.md)
+Please review our [CONTRIBUTING.md] and open issues or PRs. Validators and devs are encouraged to test integration flows: &lt;br&gt;
+[CONTRIBUTING](https://github.com/neiltucker/mintlayer-tipping-app/blob/main/CONTRIBUTING.md)
 
 ## 📫 Contact
 - **Lead Developer:** Neil Tucker (Telegram: @neiltucker)  
